@@ -50,7 +50,7 @@
     width: 100%;
     /* 背景を画面下まで設定 */
     height: 100vh;
-    background-image: url(img/mainvisual-pc.png);
+    background-image: url(mainvisual-pc.png);
     background-size: cover;
     background-position: center top;
     background-repeat: no-repeat;
@@ -269,7 +269,7 @@
   /* ヘッダー */
   #header {
     /* スマホの場合は背景画像を切り替える */
-    background-image: url(img/mainvisual-sp.png);
+    background-image: url(mainvisual-sp.png);
     padding: 20px;
     margin-bottom: 80px;
   }
@@ -376,4 +376,5 @@
     font-size: 0.875rem;
     margin-right: 25px;
   }
+
 }
